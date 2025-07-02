@@ -63,8 +63,8 @@ The dataset used contains labeled MRI scans and includes the following classes:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/brain-tumor-classification.git
-   cd brain-tumor-classification
+   git clone https://github.com/Anonymous6730/tumor-detection-using-MRI.git
+   cd tumor-detection-using-MRI
    ```
 
 2. Install dependencies:
